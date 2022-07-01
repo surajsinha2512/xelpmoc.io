@@ -1,0 +1,23 @@
+
+.country{
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding:2px;
+    margin:10px; 
+    margin-bottom: 5px;
+}
+.inner {
+    padding-left: 100px;
+    
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: aliceblue;
+    
+   width:30%;
+   border-radius: 5px;;
+  
+   
+  }
+  
+ 
